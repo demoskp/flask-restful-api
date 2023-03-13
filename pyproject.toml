@@ -5,7 +5,7 @@ description = ""
 authors = ["Demos Petsas <demos@petsas.consulting>"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.9"
 Flask = "^2.2.3"
 Flask-RESTful = "^0.3.9"
 
